@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 #  About Me:
 Hey👋, I'm Hanan Zahoor<br><br>Software Developer with a focus on AI/ML and full-stack development. I build practical applications, improve user experience, and work on solving real-world problems through code.<br><br>• Interested in AI-driven systems, backend development, and scalable applications<br>• Experience in web development, quality assurance, and freelance design<br>• Comfortable working across the stack and adapting to new technologies<br><br><br>
