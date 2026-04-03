@@ -8,13 +8,7 @@
 Hey👋, I'm Hanan Zahoor<br><br>Software Developer with a focus on AI/ML and full-stack development. I build practical applications, improve user experience, and work on solving real-world problems through code.<br><br>• Interested in AI-driven systems, backend development, and scalable applications<br>• Experience in web development, quality assurance, and freelance design<br>• Comfortable working across the stack and adapting to new technologies<br><br><br>
 
 
-## 🌐 Socials:
 
-<p align="center">
-  <a href="https://instagram.com/hannanxahoor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/hananzahoor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:mohdhanan02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 # 💻 Tech Stack:
 
@@ -127,5 +121,13 @@ Hey👋, I'm Hanan Zahoor<br><br>Software Developer with a focus on AI/ML and fu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hannanzahoor&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://instagram.com/hannanxahoor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/hananzahoor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:mohdhanan02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
