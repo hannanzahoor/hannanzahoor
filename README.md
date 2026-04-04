@@ -114,15 +114,8 @@ Hey👋, I'm Hanan Zahoor<br><br>Software Developer with a focus on AI/ML and fu
 - Achieved **~90% prediction accuracy**
 
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hannanzahoor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hannanzahoor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hannanzahoor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=hannanzahoor&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🌐 Socials:
+# 🌐 Socials:
 
 <p align="center">
   <a href="https://instagram.com/hannanxahoor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
